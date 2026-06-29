@@ -1,4 +1,4 @@
-# 
+# Gratuito AI Handwriting Recognition plugins. Com IA de borda e visão computacional — otimizado para máximo desempenho.
 
 
 
